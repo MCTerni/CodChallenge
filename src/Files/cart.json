@@ -1,0 +1,32 @@
+[
+ {
+   "product": 3000,
+   "variant": 0,
+   "quantity": 4
+ },
+ {
+   "product": 4000,
+   "variant": 0,
+   "quantity": 1
+ },
+ {
+   "product": 2000,
+   "variant": 1,
+   "quantity": 8
+ },
+ {
+   "product": 5423,
+   "variant": 0,
+   "quantity": 9
+ },
+ {
+   "product": 1000,
+   "variant": 1,
+   "quantity": 1
+ },
+ {
+   "product": 9999,
+   "variant": 0,
+   "quantity": 3
+ }
+]

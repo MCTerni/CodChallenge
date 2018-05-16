@@ -1,0 +1,114 @@
+[
+ {
+   "id": 1000,
+   "name": "Adult Shoes",
+   "variants": [
+     {
+       "size": "size 6",
+       "price": 39.99,
+       "tax_code": 0
+     },
+     {
+       "size": "size 8",
+       "price": 39.99,
+       "tax_code": 0
+     },
+     {
+       "size": "size 10",
+       "price": 39.99,
+       "tax_code": 0
+     }
+   ]
+ },
+ {
+   "id": 2000,
+   "name": "Child Shoes",
+   "variants": [
+     {
+       "size": "size 1",
+       "price": 19.99,
+       "tax_code": 3
+     },
+     {
+       "size": "size 4",
+       "price": 19.99,
+       "tax_code": 3
+     },
+     {
+       "size": "size 7",
+       "price": 19.99,
+       "tax_code": 0
+     }
+   ]
+ },
+ {
+   "id": 3000,
+   "name": "Eggs",
+   "variants": [
+     {
+       "size": "6",
+       "price": 1.50,
+       "tax_code": 7
+     },
+     {
+       "size": "12",
+       "price": 2.25,
+       "tax_code": 7
+     }
+   ]
+ },
+ {
+   "id": 3100,
+   "name": "Apples",
+   "variants": [
+     {
+       "size": "1",
+       "price": 0.30,
+       "tax_code": 7
+     },
+     {
+       "size": "10",
+       "price": 2.50,
+       "tax_code": 7
+     }
+   ]
+ },
+ {
+   "id": 4000,
+   "name": "Prepared sandwich",
+   "variants": [
+     {
+       "size": "Small",
+       "price": 2.50,
+       "tax_code": 5
+     },
+     {
+       "size": "Large",
+       "price": 4.00,
+       "tax_code": 5
+     }
+   ]
+ },
+ {
+   "id": 5423,
+   "name": "Book",
+   "variants": [
+     {
+       "size": "Assorted",
+       "price": 11.00,
+       "tax_code": 1
+     }
+   ]
+ },
+ {
+   "id": 9999,
+   "name": "Toy",
+   "variants": [
+     {
+       "size": "Various",
+       "price": 3.99,
+       "tax_code": 0
+     }
+   ]
+ }
+]

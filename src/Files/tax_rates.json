@@ -1,0 +1,32 @@
+[
+ {
+   "code": 0,
+   "name": "HST",
+   "rate": 0.13
+ },
+ {
+   "code": 1,
+   "name": "HST - Books",
+   "rate": 0.05
+ },
+ {
+   "code": 3,
+   "name": "HST - Children's Clothing",
+   "rate": 0.05
+ },
+ {
+   "code": 4,
+   "name": "HST - Children's footwear",
+   "rate": 0.05
+ },
+ {
+   "code": 5,
+   "name": "HST - Prepared food < $5",
+   "rate": 0.05
+ },
+ {
+   "code": 7,
+   "name": "EXEMPT - Food",
+   "rate": 0.00
+ }
+]
